@@ -1,5 +1,3 @@
-Voici le contenu complet pour le fichier `README.md` de la seconde démo.
-
 Ce document explique clairement la structure modulaire (3 fichiers) et guide l'utilisateur à travers le scénario de mise à l'échelle (Scaling).
 
 ---
